@@ -12,7 +12,7 @@
 <br>
 
 ### ***O que é uma Calculadora de IMC?***
-A sigla IMC é de Índice de Massa Corporal, e usa um cálculo ( peso / (altura²) pra se a pessoa está dentro do seu peso de acordo com sua altura.
+A sigla IMC é de Índice de Massa Corporal, e usa um cálculo ( peso / (altura²) pra ver se a pessoa está dentro do seu peso de acordo com sua altura.
 
 <br>
 
